@@ -1,6 +1,6 @@
-package main.vehicle;
+package industry.vehicle;
 
-import main.brands.Brand;
+import industry.brands.Brand;
 
 import java.util.ArrayList;
 import java.util.List;

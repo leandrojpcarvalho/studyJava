@@ -1,6 +1,6 @@
-package main.vehicle;
+package industry.vehicle;
 
-import main.bodywork.BodyWork;
+import industry.bodywork.BodyWork;
 
 public class VehicleType {
   private BodyWork model;
