@@ -3,7 +3,7 @@ package test.bodywork;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import main.bodywork.BodyWork;
+import industry.bodywork.BodyWork;
 
 public class BodyWorkTest extends TestCase {
 

@@ -3,8 +3,8 @@ package test.brands;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import main.brands.Brand;
-import main.vehicle.car.Car;
+import industry.brands.Brand;
+import industry.vehicle.car.Car;
 
 public class TestBrands extends TestCase {
   private final String[] brands = {"ford", "volksvagem", "fiat", "ferrari", "ferrari"};

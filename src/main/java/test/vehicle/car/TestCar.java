@@ -3,8 +3,8 @@ package test.vehicle.car;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-import main.brands.Brand;
-import main.vehicle.car.Car;
+import industry.brands.Brand;
+import industry.vehicle.car.Car;
 
 public class TestCar extends TestCase {
   String name = "eco sport";
