@@ -1,6 +1,6 @@
 package main;
 
-import main.vehicle.car.Car;
+import industry.vehicle.car.Car;
 
 public class MinhaPrimeiraClasse {
     public static void main(String[] args) throws Exception {
