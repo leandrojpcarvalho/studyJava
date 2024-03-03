@@ -1,4 +1,4 @@
-package main.bodywork;
+package industry.bodywork;
 
 import org.jetbrains.annotations.NotNull;
 

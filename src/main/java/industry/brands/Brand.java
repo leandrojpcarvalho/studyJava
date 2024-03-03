@@ -1,6 +1,6 @@
-package main.brands;
+package industry.brands;
 
-import main.vehicle.car.Car;
+import industry.vehicle.car.Car;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;
