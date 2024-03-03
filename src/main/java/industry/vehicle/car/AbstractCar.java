@@ -1,6 +1,6 @@
-package main.vehicle.car;
+package industry.vehicle.car;
 
-import main.bodywork.BodyWork;
+import industry.bodywork.BodyWork;
 
 import java.util.ArrayList;
 import java.util.List;

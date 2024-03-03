@@ -1,7 +1,7 @@
-package main.vehicle.car;
+package industry.vehicle.car;
 
-import main.bodywork.BodyWork;
-import main.brands.Brand;
+import industry.bodywork.BodyWork;
+import industry.brands.Brand;
 
 public class Car extends AbstractCar {
 
